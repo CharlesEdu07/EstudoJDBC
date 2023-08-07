@@ -1,0 +1,7 @@
+\.vscode
+\lib
+\build
+\bin
+/.metadata/
+\.classpath
+\.project
